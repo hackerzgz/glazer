@@ -1,0 +1,15 @@
+{
+    "Username": "@fake:Username",
+    "Password": "@fake:Password",
+    "Age": "10",
+    "IntSlice": [0,1,2,3],
+    "StringSlice": ["you should see me", "@fake:Phone"],
+    "CustomStruct": {
+        "Key": "Value",
+        "Date": "@fake:Date"
+    },
+    "CustomStructSlice": [{
+        "Key": "Value",
+        "Date": "@fake:Date"
+    }]
+}
